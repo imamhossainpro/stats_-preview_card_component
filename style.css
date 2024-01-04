@@ -107,7 +107,7 @@ body {
     grid-template-columns: 1fr;
   }
   .state-section .container .wrapper .text-content {
-    padding: 1rem;
+    padding: 2rem;
   }
   .state-section .container .wrapper .text-content h1 {
     font-size: 26px;
